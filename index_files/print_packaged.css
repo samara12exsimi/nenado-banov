@@ -1,0 +1,29 @@
+ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, p, blockquote, th, td {margin: 0; padding: 0}
+table {border-collapse: collapse; border-spacing: 0}
+fieldset, img {border: 0}
+address, caption, cite, code, dfn, em, strong, th, var {font-style: normal; font-weight: normal}
+caption, th {text-align: left}
+h1, h2, h3, h4, h5, h6 {font-size: 100%}
+q:before, q:after {content: ''}
+body {font-size: 16px; line-height: 1.5em; margin: 0 :padding 0}
+h1 {margin: 0; font-size: 1.5em; line-height: 1em; margin-bottom: 1em}
+h2 {margin: 0; font-size: 1.375em; line-height: 1.0909090909090908em; margin-bottom: 1.0909090909090908em}
+h3 {margin: 0; font-size: 1.25em; line-height: 1.2em; margin-bottom: 1.2em}
+h4 {margin: 0; font-size: 1.125em; line-height: 1.3333333333333333em; margin-bottom: 1.3333333333333333em}
+p, ul, blockquote, pre, td, th, label, ol, ul, dl {margin: 0; font-size: 1em; line-height: 1.5em; margin-bottom: 1.5em}
+table {border-collapse: collapse; margin-bottom: 1.5em}
+#toolbox, #comments, #member-bar, #search-form, .ad, #nav, #browse, #sidebar, #footer .links, #carrotbar, #published .contact, #inlinebox {display: none}
+#masthead img {float: left; margin-right: 1.5em; margin-bottom: 1.5em}
+a {color: black; text-decoration: none}
+#footer {margin-top: 0.722222em; border-top: 1px solid black; padding-top: 0.7222222em}
+ol li {padding-left: 1.5em; list-style-type: decimal}
+ul li {padding-left: 1.5em; list-style-type: disc}
+dl dt {margin-top: 1.5em; font-weight: bold}
+dl dd {padding-left: 1.5em}
+.captioned-image {margin-bottom: 1.5em}
+.captioned-image.left {margin: 0; float: left; margin-right: 1.5em}
+.captioned-image.right {margin: 0; float: right; margin-left: 1.5em}
+.captioned-image .caption {font-style: italic; font-size: 0.75em; line-height: 2em; margin: 0}
+h1 .author {font-size: 0.5em; line-height: 2em}
+table {width: 100%}
+thead, th {font-weight: bold}
